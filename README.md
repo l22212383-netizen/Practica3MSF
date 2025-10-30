@@ -1,6 +1,5 @@
-[![Open in MATLAB Online]
-
-# Práctica: Sistema cardiovascular
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l22212383-netizen/Practica3MSF)
+# Práctica 3: Sistema cardiovascular
 
 ## Información de la estudiante
 Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
